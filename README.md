@@ -14,8 +14,13 @@
 ---
 
 ## 📚 **About Me**
+I am a graduate student in **Computer Science** specializing in **Artificial Intelligence** and **Machine Learning**. My skills and experiences span the fields of **deep learning**, **natural language processing (NLP)**, and **data science**. I have developed innovative AI solutions for various sectors, such as:
 
-I am a graduate student in **Computer Science** specializing in **Artificial Intelligence** and **Machine Learning**. My skills and experiences span the fields of **deep learning**, **natural language processing (NLP)**, and **data science**.
+- Building an **AI-powered chatbot** for a coffee shop that improved customer service.
+- Developing a **deep learning model** to enhance agricultural productivity by detecting pests in farmland through drone sensors.
+
+I’m deeply passionate about AI-driven research and technology, striving to bridge the gap between academia and real-world applications. Open to new opportunities, I am always eager to contribute to challenging projects and leverage my AI expertise for impactful results.
+
 
 ---
 
