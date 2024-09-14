@@ -131,9 +131,14 @@ Built a model for early detection of melanoma using medical images.
 
 ---
 
-## 🌍 **Languages**
+## 🌍 **Spoken Languages**
 
-![English](https://img.shields.io/badge/-English-blue) ![Hindi](https://img.shields.io/badge/-Hindi-yellow) ![Telugu](https://img.shields.io/badge/-Telugu-green)
+[![Telugu](https://img.shields.io/badge/-Telugu-green)](https://en.wikipedia.org/wiki/Telugu_language)  Native
+
+[![Hindi](https://img.shields.io/badge/-Hindi-yellow)](https://en.wikipedia.org/wiki/Hindi)  Fluent
+
+[![English](https://img.shields.io/badge/-English-blue)](https://en.wikipedia.org/wiki/English_language)  Fluent
+
 
 ---
 
