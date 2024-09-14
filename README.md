@@ -1,4 +1,3 @@
-Here's the revised README design based on your specifications, excluding the image:
 
 ---
 
@@ -128,4 +127,3 @@ Feel free to connect or reach out for any collaboration, research opportunities,
 
 ---
 
-This layout gives a comprehensive and structured overview of your skills, experiences, and contact information. You can easily adapt this to a Markdown format for your README file. Let me know if you'd like any further tweaks!
