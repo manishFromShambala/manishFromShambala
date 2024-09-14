@@ -75,10 +75,16 @@ I’m deeply passionate about AI-driven research and technology, striving to bri
 
 ### 🧑‍🔬 **Analysis of Linguistic and Math Features for Math Word Problems**
 **Role:** Research Assistant  
-**Paper ID:** AR-TENLT-HYBD-090723-300
+**Paper ID:** AR-TENLT-HYBD-090723-300 
+
+This research examines the linguistic structure of math word problems and applies **NLP** to improve the comprehension and categorization of problem difficulties.
+
 
 ### 🧠 **Designing Graph Algorithms for Transformers**
-**Role:** Research Assistant
+**Role:** Research Assistant 
+
+Focused on optimizing the **attention mechanism** in Transformers, aiming to enhance efficiency without compromising accuracy. This research contributes to the development of more resource-efficient **large language models (LLMs)**.
+  
 
 ---
 
