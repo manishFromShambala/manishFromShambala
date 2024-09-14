@@ -52,6 +52,18 @@ I’m deeply passionate about AI-driven research and technology, striving to bri
 **Master of Science in Computer Science** (Expected May 2024)  
 - GPA: 3.9/4.0  
 - Focus: **Artificial Intelligence**, **NLP**, **High-Performance Computing**
+- Coursework:
+  1. #### Machine Learning
+  2. #### Data Mining
+  3. #### Contemporary Issues in Big Data
+  4. #### Computer Networking
+  5. #### Computer Vision
+  6. #### Designing High Performant Systems for Artificial Intelligence
+  7. #### High Performance Data and Computing
+  8. #### Software Engineering
+  9. #### Computer Security
+  10. #### Database Systems
+  11. #### ITA Presentation Skills
 
 ### 📍 **Sagi Rama Krishnam Raju Engineering College, Bhimavaram, India**  
 **Bachelor of Technology in Computer Science and Engineering** (May 2022)  
