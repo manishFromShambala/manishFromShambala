@@ -73,7 +73,7 @@ I’m deeply passionate about AI-driven research and technology, striving to bri
 
 ## 🔬 **Research Contributions**
 
-### 🧑‍🔬 **Analysis of Linguistic and Math Features for Math Word Problems**
+### 🧑‍🔬 **Analysis of Linguistic and Math Features for Math Word Problems: Insights and Future Direction**
 **Role:** Research Assistant  
 **Paper ID:** AR-TENLT-HYBD-090723-300 
 
