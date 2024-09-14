@@ -2,14 +2,15 @@
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/000000/user.png" width="30"/> **Manish Sri Sai Surya Routhu**
+ # Manish Sri Sai Surya Routhu
 
-**Location:** Cleveland, OH, USA | Willing to relocate  
+**Location:** Cleveland, OH, USA  
+**Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-Streamlit-blue)](https://manish.streamlit.app)    
 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/manishcse456)  
 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-brightgreen)](https://github.com/manishFromShambala)  
-**Email:** manishcse456@gmail.com  
-**Phone:** +1 (216)-575-8862  
-**Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-Streamlit-blue)](https://manish.streamlit.app)
+**Email:** [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:manishcse456@gmail.com)
+
+
 
 ---
 
