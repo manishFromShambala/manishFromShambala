@@ -90,14 +90,22 @@ Focused on optimizing the **attention mechanism** in Transformers, aiming to enh
 
 ## 💼 **Professional Experience**
 
-### 🔍 **Research Assistant** | Case Western Reserve University  
-**May 2023 - Present**
+### **Research Assistant** | Case Western Reserve University  
+**May 2023 - Present**  
+- Optimized attention mechanisms in **Transformers** to streamline NLP tasks. Enhanced the accuracy of **LLMs** used for processing linguistic data.
 
-### 💡 **Data Science Intern** | Personifwy, Bangalore  
-**May 2022 - July 2022**
+### **Graduate Research Assistant** | Case Western Reserve University  
+**Jan 2023 - May 2023**  
+- Worked on distinguishing math word problems using NLP, leading to an increase in the effectiveness of automated classification systems.
 
-### 🚀 **IoT Intern** | Apsis Solutions, Bangalore  
-**May 2022 - Aug 2022**
+### **Data Science Intern** | Personifwy, Bangalore  
+**May 2022 - July 2022**  
+- Developed an AI-powered chatbot that increased customer engagement by 30%. Applied **Dialogflow** and **Python** for natural language processing tasks.
+
+### **IoT Intern** | Apsis Solutions, Bangalore  
+**May 2022 - Aug 2022**  
+- Created a drone-based pest detection system using **deep learning** to reduce pesticide use by 40% and improve crop yields by 10%.
+
 
 ---
 
