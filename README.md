@@ -75,7 +75,7 @@ I’m deeply passionate about AI-driven research and technology, striving to bri
 
 ### 🧑‍🔬 **Analysis of Linguistic and Math Features for Math Word Problems: Insights and Future Direction**
 **Role:** Research Assistant  
-**Paper ID:** AR-TENLT-HYBD-090723-300 
+**Paper:** [PDF](./research_paper.pdf)
 
 This research examines the linguistic structure of math word problems and applies **NLP** to improve the comprehension and categorization of problem difficulties.
 
