@@ -124,6 +124,19 @@ Built a model for early detection of melanoma using medical images.
 
 ---
 
+## **Research Projects**
+1. **Evaluation of Inference Time of MobileNet Using KN2ROW Convolution Algorithm**	
+
+- Evaluated the inference time of MobileNet using Kn2row optimization compared to default depthwise separable convolutions.
+- Implemented MobileNet in PyTorch and integrated Kn2row using oneAPI.
+- Constructed the model to compare performance between Kn2row and MobileNet.
+- Performance results:
+  - **Kn2row**: 38.3 times slower (0.4423126s) than MobileNet (0.01151888s) for a forward pass.
+- Highlighted Kn2row's **computational complexity** and **memory usage** in comparison to MobileNet's grouped convolutions.
+- Provided recommendations for optimization exploration and real-world MobileNet applications.
+- Contributed insights to deep learning framework advancements and further research.
+---
+
 ## 🏆 **Honors & Awards**
 
 - **Siegal Lifelong Learning Scholarship**, Case Western Reserve University
